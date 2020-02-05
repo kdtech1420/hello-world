@@ -1,2 +1,6 @@
-# hello-world
-get hello world program in all language
+public class git{
+  public static void main(String[] args){
+  String i="Hello World";
+  System.out.println(i);
+  }
+}
